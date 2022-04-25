@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7vhOZtDMnRVbyU47XTTRyvBlxCN4GdLFVA65UZ5fl/1CxK4zWeE+MWvbX8b2+99n0aGZnJj+poZALztok2Sjpw==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\SharpCode\\CalculoPitagoras\\CalculoPitagoras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thais e Thiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

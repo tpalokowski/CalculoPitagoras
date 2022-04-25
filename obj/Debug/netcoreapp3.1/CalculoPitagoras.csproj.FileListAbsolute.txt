@@ -1,0 +1,14 @@
+D:\Desktop\SharpCode\CalculoPitagoras\bin\Debug\netcoreapp3.1\CalculoPitagoras.exe
+D:\Desktop\SharpCode\CalculoPitagoras\bin\Debug\netcoreapp3.1\CalculoPitagoras.deps.json
+D:\Desktop\SharpCode\CalculoPitagoras\bin\Debug\netcoreapp3.1\CalculoPitagoras.runtimeconfig.json
+D:\Desktop\SharpCode\CalculoPitagoras\bin\Debug\netcoreapp3.1\CalculoPitagoras.runtimeconfig.dev.json
+D:\Desktop\SharpCode\CalculoPitagoras\bin\Debug\netcoreapp3.1\CalculoPitagoras.dll
+D:\Desktop\SharpCode\CalculoPitagoras\bin\Debug\netcoreapp3.1\CalculoPitagoras.pdb
+D:\Desktop\SharpCode\CalculoPitagoras\obj\Debug\netcoreapp3.1\CalculoPitagoras.AssemblyInfoInputs.cache
+D:\Desktop\SharpCode\CalculoPitagoras\obj\Debug\netcoreapp3.1\CalculoPitagoras.AssemblyInfo.cs
+D:\Desktop\SharpCode\CalculoPitagoras\obj\Debug\netcoreapp3.1\CalculoPitagoras.csproj.CoreCompileInputs.cache
+D:\Desktop\SharpCode\CalculoPitagoras\obj\Debug\netcoreapp3.1\CalculoPitagoras.dll
+D:\Desktop\SharpCode\CalculoPitagoras\obj\Debug\netcoreapp3.1\CalculoPitagoras.pdb
+D:\Desktop\SharpCode\CalculoPitagoras\obj\Debug\netcoreapp3.1\CalculoPitagoras.genruntimeconfig.cache
+D:\Desktop\SharpCode\CalculoPitagoras\obj\Debug\netcoreapp3.1\CalculoPitagoras.csproj.AssemblyReference.cache
+D:\Desktop\SharpCode\CalculoPitagoras\obj\Debug\netcoreapp3.1\CalculoPitagoras.GeneratedMSBuildEditorConfig.editorconfig
